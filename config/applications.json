@@ -23,6 +23,22 @@
         "link": "https://www.adobe.com/acrobat/pdf-reader.html",
         "winget": "Adobe.Acrobat.Reader.64-bit"
     },
+    "WPS Office": {
+        "category": "Document",
+        "choco": "wpsoffice",
+        "content": "WPS Office",
+        "description": "WPS Office is a comprehensive office suite that includes a word processor, spreadsheet tool, and presentation maker, providing a versatile solution for document creation and editing.",
+        "link": "https://www.wps.com/",
+        "winget": "Kingsoft.WPSOffice"
+    },
+    "Texmaker": {
+        "category": "Document",
+        "choco": "texmaker",
+        "content": "Texmaker",
+        "description": "Texmaker is a free, cross-platform LaTeX editor that provides an integrated environment for editing, compiling, and previewing LaTeX documents.",
+        "link": "https://www.xm1math.net/texmaker/",
+        "winget": "Texmaker.Texmaker"
+    },
     "advancedip": {
         "category": "Pro Tools",
         "choco": "advanced-ip-scanner",
@@ -94,6 +110,14 @@
         "description": "Audacity is a free and open-source audio editing software known for its powerful recording and editing capabilities.",
         "link": "https://www.audacityteam.org/",
         "winget": "Audacity.Audacity"
+    },
+    "Streamlabs OBS": {
+        "category": "Multimedia Tools",
+        "choco": "streamlabs",
+        "content": "Streamlabs OBS",
+        "description": "Streamlabs OBS is a free and open-source software for video recording and live streaming, providing a user-friendly interface and powerful features.",
+        "link": "https://streamlabs.com/",
+        "winget": "Streamlabs.Streamlabs"
     },
     "autoruns": {
         "category": "Microsoft Tools",
@@ -175,6 +199,78 @@
         "link": "https://www.brave.com",
         "winget": "Brave.Brave"
     },
+    "Opera": {
+        "category": "Browser",
+        "choco": "opera",
+        "content": "Opera Browser",
+        "description": "Opera is a fast and secure web browser with a built-in ad blocker, free VPN, and various features for a better browsing experience.",
+        "link": "https://www.opera.com/",
+        "winget": "Opera.Opera"
+    },
+    "Opera GX": {
+        "category": "Browser",
+        "choco": "operagx",
+        "content": "Opera GX Browser",
+        "description": "Opera GX is a gaming browser that offers features like CPU, RAM, and Network Bandwidth limiters, providing a customizable and optimized browsing experience for gamers.",
+        "link": "https://www.opera.com/gx",
+        "winget": "Opera.OperaGX"
+    },
+    "Unreal Engine": {
+        "category": "Development",
+        "choco": "unrealengine",
+        "content": "Unreal Engine",
+        "description": "Unreal Engine is a powerful game development platform that provides tools for building high-quality 3D games and interactive experiences, featuring advanced graphics, physics, and rendering capabilities.",
+        "link": "https://www.unrealengine.com/",
+        "winget": "EpicGames.UnrealEngine"
+    },
+    "IntelliJ IDEA Community": {
+        "category": "Development",
+        "choco": "intellijidea-community",
+        "content": "IntelliJ IDEA Community",
+        "description": "IntelliJ IDEA Community is a free and open-source integrated development environment (IDE) for Java development, featuring intelligent code completion, code analysis, and a variety of plugins.",
+        "link": "https://www.jetbrains.com/idea/download/",
+        "winget": "JetBrains.IntelliJIDEA.Community"
+    },
+    "Android Studio": {
+        "category": "Development",
+        "choco": "androidstudio",
+        "content": "Android Studio",
+        "description": "Android Studio is the official integrated development environment (IDE) for Android app development, offering powerful code editing, debugging, and testing tools.",
+        "link": "https://developer.android.com/studio",
+        "winget": "Google.AndroidStudio"
+    },
+    "Apache NetBeans": {
+        "category": "Development",
+        "choco": "netbeans",
+        "content": "Apache NetBeans",
+        "description": "Apache NetBeans is an open-source integrated development environment (IDE) for Java, PHP, and other programming languages, providing powerful tools for code editing, debugging, and project management.",
+        "link": "https://netbeans.apache.org/",
+        "winget": "Apache.NetBeans"
+    },
+    "dotPeek": {
+        "category": "Development",
+        "choco": "dotpeek",
+        "content": "dotPeek",
+        "description": "dotPeek is a free .NET decompiler and assembly browser that helps you explore and analyze .NET assemblies, making it easier to understand and work with existing code.",
+        "link": "https://www.jetbrains.com/decompiler/",
+        "winget": "JetBrains.dotPeek"
+    },
+    "ILSpy": {
+        "category": "Development",
+        "choco": "ilspy",
+        "content": "ILSpy",
+        "description": "ILSpy is an open-source .NET assembly browser and decompiler that allows you to inspect and analyze .NET assemblies, making it a valuable tool for reverse engineering.",
+        "link": "https://github.com/icsharpcode/ILSpy",
+        "winget": "ICSharpCode.ILSpy"
+    },
+    "CCleaner": {
+        "category": "Utilities",
+        "choco": "ccleaner",
+        "content": "CCleaner",
+        "description": "CCleaner is a popular system optimization and privacy tool that removes unnecessary files, cleans browser history, and helps improve system performance.",
+        "link": "https://www.ccleaner.com/ccleaner",
+        "winget": "Piriform.CCleaner"
+    },
     "bulkcrapuninstaller": {
         "category": "Utilities",
         "choco": "bulk-crap-uninstaller",
@@ -222,6 +318,46 @@
         "description": "Cemu is a highly experimental software to emulate Wii U applications on PC.",
         "link": "https://cemu.info/",
         "winget": "Cemu.Cemu"
+    },
+    "MUMU Player": {
+        "category": "Games",
+        "choco": "mumupayer",
+        "content": "MUMU Player",
+        "description": "MUMU Player is an Android emulator that allows users to run Android applications and games on their PCs with high performance and smooth experience.",
+        "link": "https://www.mumuglobal.com/",
+        "winget": "MuMuPlayer.MuMuPlayer"
+    },
+    "BlueStacks": {
+        "category": "Games",
+        "choco": "bluestacks",
+        "content": "BlueStacks",
+        "description": "BlueStacks is an Android emulator that allows users to run Android applications and games on their PCs, offering a user-friendly interface and excellent performance.",
+        "link": "https://www.bluestacks.com/",
+        "winget": "BlueStacks.Bluestacks"
+    },
+    "Nox Player": {
+        "category": "Games",
+        "choco": "noxplayer",
+        "content": "Nox Player",
+        "description": "Nox Player is an Android emulator that allows users to play Android games and run apps on their PC, featuring a user-friendly interface and robust performance.",
+        "link": "https://www.bignox.com/",
+        "winget": "NoxPlayer.NoxPlayer"
+    },
+    "LDPlayer": {
+        "category": "Games",
+        "choco": "ldplayer",
+        "content": "LDPlayer",
+        "description": "LDPlayer is an Android emulator that provides a smooth gaming experience on PC, allowing users to run Android games and applications with high performance.",
+        "link": "https://www.ldplayer.net/",
+        "winget": "LDPlayer.LDPlayer"
+    },
+    "Bloatbox": {
+        "category": "Utilities",
+        "choco": "bloatbox",
+        "content": "Bloatbox",
+        "description": "Bloatbox is a Windows application that helps users remove pre-installed bloatware and apps that cannot be uninstalled through standard Windows options.",
+        "link": "https://www.builtbybel.com/apps/bloatbox",
+        "winget": "Bloatbox.Bloatbox"
     },
     "chatterino": {
         "category": "Communications",
