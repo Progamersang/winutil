@@ -23,6 +23,30 @@
         "link": "https://www.adobe.com/acrobat/pdf-reader.html",
         "winget": "Adobe.Acrobat.Reader.64-bit"
     },
+    "WPS Office": {
+        "category": "Document",
+        "choco": "wpsoffice",
+        "content": "WPS Office",
+        "description": "WPS Office is a comprehensive office suite that includes a word processor, spreadsheet tool, and presentation maker, providing a versatile solution for document creation and editing.",
+        "link": "https://www.wps.com/",
+        "winget": "Kingsoft.WPSOffice"
+    },
+    "WPS Office": {
+        "category": "Document",
+        "choco": "wpsoffice",
+        "content": "WPS Office",
+        "description": "WPS Office is a comprehensive office suite that includes a word processor, spreadsheet tool, and presentation maker, providing a versatile solution for document creation and editing.",
+        "link": "https://www.wps.com/",
+        "winget": "Kingsoft.WPSOffice"
+    },
+    "Texmaker": {
+        "category": "Document",
+        "choco": "texmaker",
+        "content": "Texmaker",
+        "description": "Texmaker is a free, cross-platform LaTeX editor that provides an integrated environment for editing, compiling, and previewing LaTeX documents.",
+        "link": "https://www.xm1math.net/texmaker/",
+        "winget": "Texmaker.Texmaker"
+    },
     "advancedip": {
         "category": "Pro Tools",
         "choco": "advanced-ip-scanner",
